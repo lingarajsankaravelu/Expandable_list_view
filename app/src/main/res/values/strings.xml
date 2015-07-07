@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Expandable_list_view</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="Parent_head">
+        <item>Animals</item>
+        <item>Birds</item>
+    </string-array>
+
+    <string-array name="Child_animals">
+        <item>Lion</item>
+        <item>Tiger</item>
+
+    </string-array>
+    <string-array name="child_birds">
+        <item>Parrot</item>
+        <item>Dove</item>
+    </string-array>
+</resources>
